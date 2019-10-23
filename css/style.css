@@ -1,0 +1,428 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+
+}
+.maindiv{
+
+}
+header{
+
+background-color: #FCDB00;
+
+overflow: hidden;
+}
+.elements{
+
+width: 80%;
+
+/* background: green; */
+
+margin-right: auto;
+
+margin-left: auto;
+
+margin-top: 35px;
+}
+.logo{
+
+width: 50%;
+
+float: left;
+}
+
+.logo img{
+
+width: 111px;
+}
+nav{
+
+width: 50%;
+
+float: left;
+}
+nav ul{
+
+}
+nav ul li{
+
+list-style: none;
+
+display: inline-block;
+}
+nav ul li a{
+	
+text-decoration: none;
+	
+padding-right: 68px;
+	
+color: black;
+	
+font-size: 17px;
+	
+font-weight: 800;
+}
+.banner{
+
+background-color: #FCDB00;
+
+overflow: hidden;
+
+height: 500px;
+}
+.banner-elements{
+	
+width: 80%;
+	
+margin-left: auto;
+	
+margin-right: auto;
+	
+overflow: hidden;
+}
+.leftbanner{width: 50%;/* background: red; */float: left;margin-top: 84px;}
+.leftbanner h1{
+	
+font-size: 36px;
+	
+font-weight: 600;
+	
+margin-bottom: 10px;
+	
+width: 80p;
+}
+.leftbanner h3{
+	
+font-size: 19px;
+	
+font-weight: 400;
+	
+margin-bottom: 12px;
+	
+width: 65%;
+	
+word-spacing: 5px;
+	
+margin-top: 15px;
+	
+color: #333;
+}
+.leftbanner p{
+	
+font-size: 17px;
+	
+width: 79%;
+	
+margin-top: 19px;
+	
+text-align: left;
+	
+color: #333;
+}
+.rightbanner{
+	
+width: 50%;
+	
+/* background-color: blue; */
+	
+float: left;
+}
+.outerbox{
+
+margin-top: 36px;
+
+margin-left: 6px;
+}
+.outerbox img{
+    height: 400px;
+}
+
+.section{
+
+margin-top: 60px;
+
+margin-bottom: 100px;
+}
+.heading{
+
+}
+
+.heading {}
+.heading h1{
+
+text-align: center;
+
+font-size: 30px;
+}
+.heading p{
+
+text-align: center;
+
+width: 60%;
+
+margin-left: auto;
+
+margin-right: auto;
+
+margin-top: 15px;
+
+color: #333;
+
+margin-bottom: 11px;
+}
+.contents{
+
+margin-top: 30px;
+}
+.collums{
+
+margin-top: 15px;
+
+max-width: 33.33%;
+
+flex-basis: 33.33%;
+
+/* padding: 15px; */
+
+box-sizing: border-box;
+
+padding-top: 15px;
+
+padding-left: 3px;
+
+padding-right: 8px;
+
+padding-bottom: 7px;
+}
+.Colicons{
+
+width: 10%;
+
+float: left;
+
+margin-right: 10px;
+}
+.colcontents{
+	
+width: 86%;
+	
+float: left;
+	
+/* background-color: #0000ff38; */
+}
+.colcontents h2{
+
+font-size: 20px;
+
+font-weight: 600;
+
+color: #292828;
+
+margin-bottom: 4px;
+}
+.colcontents p{
+	
+color: #333333d1;
+	
+font-size: 16px;
+	
+word-spacing: 5px;
+}
+.flex{
+	flex-wrap: wrap;
+	display: flex;
+}
+footer{
+
+height: 440px;
+
+background-color: #000000;
+}
+.upper{
+
+margin-top: 40px;
+
+/* background-color: rebeccapurple; */
+}
+
+.upper h2{
+
+text-align: center;
+
+color: yellow;
+}
+.upper p{
+
+text-align: center;
+
+margin-left: 22%;
+
+margin-right: 22%;
+
+font-size: 17px;
+
+margin-top: 12px;
+
+margin-bottom: 25px;
+
+color: #ffffffbf;
+}
+.device{margin-top: 32px;}
+
+.fa{    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 40px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    padding-right: 18px;
+}
+.sidebar{
+	
+width: 70%;
+	
+margin-left: auto;
+	
+margin-right: auto;
+	
+overflow: hidden;
+}
+form{
+    margin-left: 24%;
+    margin-right: 21%;
+    margin-top: 46px;
+}
+ form input{
+
+width: 64%;
+
+height: 28px;
+
+border: 1px solid #cd5c5cad;
+
+border-radius: 3px;
+
+box-sizing: border-box;
+
+padding: 8px;
+}
+ .submitbtn{
+ 	
+width: 20%;
+ 	
+margin-top: 0px;
+ 	
+background-color: yellow;
+ 	
+font-size: 12px;
+ 	
+font-weight: 600;
+ 	
+border: 1px solid grey;
+ 	
+margin-left: 5px;
+ 	
+padding: 6px;
+ }
+ form input [type="submit"]{
+ 	
+ }
+ .social{
+
+margin-top: 20px;
+
+width: 27%;
+
+color: yellow;
+
+margin-left: 38%;
+
+}
+ .social i{
+ 	
+display: inline-block;
+ 	
+padding: 11px;
+ }
+ .lower{
+
+margin-top: 52px;
+}
+.adress{
+
+width: 20%;
+
+float: left;
+}
+.Examples{
+
+width: 15%;
+
+float: left;
+
+margin-left: 70px;
+}
+.Examples ul{}
+.Examples ul li{}
+.Examples ul li a{}
+.contacts{
+
+width: 15%;
+
+float: left;
+}
+.Download{
+
+width: 15%;
+
+float: left;
+}
+.Media{
+
+float: left;
+
+width: 15%;
+}
+.spacer{
+
+width: 100%;
+}
+.adress{
+
+}
+.adress p{
+	
+text-decoration: none;
+	
+color: #ffffffcf;
+	
+font-size: 15px;
+	
+font-weight: 600;
+}
+.lower ul{}
+.lower ul li{
+    list-style: none;
+}
+.lower ul li a{
+    text-decoration: none;
+    color: #ffffffcf;
+    font-size: 15px;
+    font-weight: 600;
+}
+.circles{
+
+width: 18%;
+
+margin-left: auto;
+
+margin-right: auto;
+
+margin-top: 25px;
+
+color: #000000eb;
+}
+.circles i{
+	
+}
